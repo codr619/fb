@@ -37,5 +37,20 @@ float: left;
   cursor: pointer;
 }
 .sub:hover{
-  color: red;
+  color: black;
+  background-color: white;
+}
+.main{
+  height: 100%;
+}
+
+.left{
+  float: left;
+  width: 50%;
+}
+.right
+{
+  float: right;
+  width: 50%;
+
 }
